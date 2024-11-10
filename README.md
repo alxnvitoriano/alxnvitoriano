@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Alan Vitoriano
+# 👨‍💻 Alan Vitoriano
 **`Desenvolvedor FrontEnd`**
 
 Me chamo Alan Vitoriano, tenho 21 anos e sou natural da Bahia. Atualmente, estou cursando Ciencia da Computação no IFMA - Campus Imperatriz. 
