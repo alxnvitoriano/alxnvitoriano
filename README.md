@@ -85,6 +85,8 @@ Me chamo Alan Vitoriano, tenho 21 anos e sou natural da Bahia. Atualmente, estou
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
