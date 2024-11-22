@@ -90,6 +90,19 @@ Me chamo Alan Vitoriano, atualmente, estou cursando Ciencia da Computação no I
 ### 📊 Estatísticas
 
 <p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxnvitoriano)](https://github.com/alxnvitoriano/github-readme-stats)
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alxnvitoriano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alxnvitoriano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
