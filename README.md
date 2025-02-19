@@ -1,7 +1,7 @@
 # 👨‍💻 Alan Vitoriano
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Alan Vitoriano, atualmente estou cursando Ciencia da Computação no IFMA - Campus Imperatriz. 
+Me chamo Alan Vitoriano, desenvolvedor Front-end, atualmente estou cursando Ciência da Computação no IFMA - Campus Imperatriz. 
 
 ---
 
