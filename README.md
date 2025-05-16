@@ -1,7 +1,7 @@
 # 👨‍💻 Alan Vitoriano
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Alan Vitoriano, desenvolvedor Front-end, atualmente estou cursando Ciência da Computação no IFMA - Campus Imperatriz. 
+Hi there! I'm a software developer and computer science student with a entusiasm for technology. My focus is on frontend development with a clean code and high-quality user experience. I build responsive websites and applications that fast, easy to use, and follow best coding practices. My expertise includes ReactJS, NextJS, JavaScript and TypeScript to create dynamic, engaging interfaces with clean and optmized code.
 
 ---
 
