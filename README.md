@@ -81,9 +81,9 @@ Hi there! I'm a software developer and computer science student with a entusiasm
 />
 
 
-<br/>
-<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxnvitoriano)](https://github.com/alxnvitoriano/github-readme-stats)
+<br/>
+<br/>
 <br/>
 <br/>
 
