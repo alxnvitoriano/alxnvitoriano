@@ -80,11 +80,12 @@ Hi there! I'm a software developer and computer science student with a entusiasm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxnvitoriano)](https://github.com/alxnvitoriano/github-readme-stats)
+
 <br/>
 <br/>
 <br/>
 <br/>
-[![Alan Vitoriano GitHub stats](https://github-readme-stats.vercel.app/api?username=alxnvitoriano)](https://github.com/alxnvitoriano/github-readme-stats)
 
 
 </p>
