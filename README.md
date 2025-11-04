@@ -90,7 +90,7 @@ Hi there! I'm a software developer and computer science student with a entusiasm
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alxnvitoriano&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=alxnvitoriano&show_icons=true&theme=dark&locale=pt-br" 
   />
 
 <img 
