@@ -81,18 +81,6 @@ Hi there! I'm a software developer and computer science student with a entusiasm
 />
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alxnvitoriano&show_icons=true&theme=dark&locale=pt-br" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
