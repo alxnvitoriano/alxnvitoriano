@@ -1,7 +1,13 @@
 # 👨‍💻 Alan Vitoriano
 **`Desenvolvedor Fullstack`**
 
-Hi there! I'm a software developer and computer science student with a entusiasm for technology. I'm a fullstack dev, but my focus is on frontend development with a clean code and high-quality user experience. I build responsive websites and applications that fast, easy to use, and follow best coding practices. My expertise includes ReactJS, NextJS, JavaScript and TypeScript to create dynamic, engaging interfaces with clean and optmized code.
+I am a Fullstack Developer and Computer Science student with a strong interest in building scalable, well-architected software solutions that solve real-world problems.
+
+I have hands-on experience across both frontend and backend development, working with modern technologies such as React, TypeScript, Next.js, Node.js, Java, and MySQL. My background allows me to understand the full software lifecycle — from designing user interfaces and APIs to implementing business logic and managing data persistence.
+
+As a Computer Science student, I value continuous learning, solid technical foundations, and best practices in software engineering. I am particularly interested in frontend development, system architecture, and fullstack projects that challenge me to grow as an engineer.
+
+I am currently open to opportunities where I can contribute, learn, and grow in a collaborative and technically driven environment.
 
 ---
 
